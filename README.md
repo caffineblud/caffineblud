@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **yashsingh200606@gmail.com** For Collaboration/Project or 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=caffineblud&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-trophies.vercel.app/?username=caffineblud&theme=radical" />
 </p>
 
 ![](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)

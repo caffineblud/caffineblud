@@ -1,32 +1,115 @@
-# Hi 👋, I'm Yash Kr Singh
+<div align="center">
 
-### ☁️ Cloud Engineer • 🤖 AI & Machine Learning Enthusiast • 🌱 Sustainable Engineer
+# Yash Kumar Singh
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF8C00&center=true&vCenter=true&width=700&lines=Python+Developer+%F0%9F%90%8D;Open+Source+Contributor+%F0%9F%94%A7;Desktop+%26+Web+App+Builder+%F0%9F%9B%A0%EF%B8%8F;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-Passionate about building impactful technology, exploring AI-driven solutions, and creating scalable cloud-based applications.
+<img src="https://img.shields.io/badge/Python_Developer-🐍-FF8C00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open_Source-🔧-FF8C00?style=flat-square"/>
+<img src="https://img.shields.io/badge/20%2B_Projects-🚀-FF8C00?style=flat-square"/>
 
-📧 **Email:** [yashsingh200606@gmail.com](mailto:yashsingh200606@gmail.com)
-
-💡 Open for collaborations, projects, hackathons, and exciting opportunities.
+</div>
 
 ---
 
-## 🚀 About Me
+<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
-* 🌱 Currently learning **DSA with Python**
-* ☁️ Exploring **Cloud Computing & DevOps**
-* 🤖 Building projects in **AI & Machine Learning**
-* 💬 Ask me about **Python, Cloud, GitHub, Open Source**
-* 🎯 Goal: Build solutions that create real-world impact
-* ⚡ Fun Fact: **I love tech, and tech loves me back.**
+### Hey there 👋
+
+I'm a **Python developer** who builds real, working software — not just tutorials. With **20+ projects** shipped and counting, I've gone from classic games and CLI tools to **AI-powered apps**, **Flask web services**, and **GUI desktop applications** — all open source.
+
+My projects span a wide range: an **Emotion Analyzer** that reads faces, a **Virtual Mouse** controlled by hand gestures, a **Clash Royale Deck Analyzer** with synergy scoring, a **File Organizer** with a full GUI, a **Banking System**, and web apps like a **Weather App** and **Scientific Unit Converter** backed by REST APIs. I don't just code for practice — I build things I'd actually use.
+
+- 🐍 **Primary Stack** — Python (tkinter, customtkinter, Flask, OpenCV)
+- 🌐 **Web** — HTML · CSS · JS · Flask REST APIs
+- 🤖 **AI / CV** — Emotion detection, hand-gesture control, data analysis
+- 🔧 **Open Source** — All public repos MIT licensed and open to contributions
+- 🌱 **Currently mastering** — DSA with Python & Cloud Computing
+- 🎯 **Philosophy** — If it solves a real problem, it's worth building
+- ⚡ **Fun fact** — My commit history is basically my diary
+
+📧 [yashsingh200606@gmail.com](mailto:yashsingh200606@gmail.com) &nbsp;·&nbsp; 💡 Open to collabs, hackathons & opportunities
+
+<br clear="right"/>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://discord.gg/Caffeineblud"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://instagram.com/cookedhyash"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yash-kumar-singh-8a4b193b1"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yashsingh200606@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+
+**Backend & Cloud**
+
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+
+**Data & AI**
+
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+
+**Tools & Design**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF.svg?style=flat-square&logo=adobe-lightroom&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=caffineblud&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=caffineblud&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=caffineblud&theme=tokyonight&hide_border=true&layout=compact"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/caffineblud">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=caffineblud&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  </a>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=caffineblud&theme=radical" />
+  <img src="https://github-trophies.vercel.app/?username=caffineblud&theme=tokyonight&no-frame=true&column=7"/>
 </p>
 
 ---
@@ -34,98 +117,12 @@ Passionate about building impactful technology, exploring AI-driven solutions, a
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
 </div>
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://discord.gg/Caffeineblud">
-<img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/cookedhyash">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/yash-kumar-singh-8a4b193b1">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:yashsingh200606@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic\&logo=python\&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic\&logo=c%2B%2B\&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic\&logo=c\&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic\&logo=javascript\&logoColor=%23F7DF1E)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic\&logo=react\&logoColor=%2361DAFB)
-
-### Backend & Cloud
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic\&logo=node.js\&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic\&logo=flask\&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic\&logo=firebase)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic\&logo=vercel\&logoColor=white)
-
-### Data & AI
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic\&logo=pandas\&logoColor=white)
-
-### Tools & Design
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic\&logo=github\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic\&logo=Canva\&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic\&logo=adobe%20photoshop\&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic\&logo=Adobe%20Lightroom\&logoColor=white)
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=caffineblud&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com/?user=caffineblud&theme=solarized-dark&hide_border=false"/>
-</p>
-
-<p align="center">
-<img width="45%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=caffineblud&theme=solarized-dark&hide_border=false&layout=compact"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-[![Yash's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=caffineblud\&theme=react-dark)](https://github.com/caffineblud)
-
----
-
-## ✍️ Developer Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
-
----
-
-## 🎯 Current Focus
+## 🎯 Current Mode
 
 ```python
 while True:
@@ -137,12 +134,20 @@ while True:
 
 ---
 
+## ✍️ Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
 <div align="center">
 
-### 👀 Profile Visitors
+### 👀 Visitor Count
 
-[![](https://komarev.com/ghpvc/?username=caffineblud\&icon=0\&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=caffineblud&color=FF8C00&style=flat-square&label=Profile+Views)](https://github.com/caffineblud)
 
-⭐ Thanks for visiting my profile!
+*⭐ If you like what you see, drop a star on something!*
 
 </div>

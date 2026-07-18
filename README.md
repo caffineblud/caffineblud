@@ -6,31 +6,41 @@
 
 <img src="https://img.shields.io/badge/Python_Developer-🐍-FF8C00?style=flat-square"/>
 <img src="https://img.shields.io/badge/Open_Source-🔧-FF8C00?style=flat-square"/>
-<img src="https://img.shields.io/badge/20%2B_Projects-🚀-FF8C00?style=flat-square"/>
+<img src="https://img.shields.io/badge/22%2B_Projects-🚀-FF8C00?style=flat-square"/>
+<img src="https://img.shields.io/badge/GSSoC_'26-Contributor-FF8C00?style=flat-square"/>
+<img src="https://img.shields.io/badge/SSoC_S5-Contributor-FF8C00?style=flat-square"/>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ### Hey there 👋
 
-I'm a **Python developer** who builds real, working software — not just tutorials. With **20+ projects** shipped and counting, I've gone from classic games and CLI tools to **AI-powered apps**, **Flask web services**, and **GUI desktop applications** — all open source.
+I'm a **Python developer** who builds real, working software — not just tutorials. With **22+ projects** shipped across CLI tools, GUI desktop apps, AI-powered tools, and Flask web services, I believe in building things I'd actually use.
 
-My projects span a wide range: an **Emotion Analyzer** that reads faces, a **Virtual Mouse** controlled by hand gestures, a **Clash Royale Deck Analyzer** with synergy scoring, a **File Organizer** with a full GUI, a **Banking System**, and web apps like a **Weather App** and **Scientific Unit Converter** backed by REST APIs. I don't just code for practice — I build things I'd actually use.
+Selected contributor for **GSSoC 2026** and **SSoC Season 5** — actively contributing to open-source projects under mentorship.
 
 - 🐍 **Primary Stack** — Python (tkinter, customtkinter, Flask, OpenCV)
 - 🌐 **Web** — HTML · CSS · JS · Flask REST APIs
 - 🤖 **AI / CV** — Emotion detection, hand-gesture control, data analysis
-- 🔧 **Open Source** — All public repos MIT licensed and open to contributions
 - 🌱 **Currently mastering** — DSA with Python & Cloud Computing
 - 🎯 **Philosophy** — If it solves a real problem, it's worth building
 - ⚡ **Fun fact** — My commit history is basically my diary
 
 📧 [yashsingh200606@gmail.com](mailto:yashsingh200606@gmail.com) &nbsp;·&nbsp; 💡 Open to collabs, hackathons & opportunities
 
-<br clear="right"/>
+</td>
+<td valign="center" width="45%">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Y4Y2xpeWozeG42aDVlcWRwMTVyZnVldGQ5ajh2M3ZsNmY0ODhzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -42,6 +52,65 @@ My projects span a wide range: an **Emotion Analyzer** that reads faces, a **Vir
   <a href="https://linkedin.com/in/yashsingh200606"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:yashsingh200606@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏆 Clash Royale Deck Analyzer
+A desktop deck analysis tool with synergy scoring, archetype detection, counter suggestions, and PDF export.
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1F6AA5?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/caffineblud/Clash-Royale-Deck-Analyzer)
+
+</td>
+<td width="50%">
+
+### 🖱️ Virtual Mouse
+Gesture-controlled cursor system using real-time hand landmark tracking via webcam — no hardware required.
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square)
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/caffineblud/Virtual-Mouse)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎭 Advanced Emotion Analyzer
+NLP-powered CLI that detects emotional tone from text using HuggingFace Transformers — with color-coded output and session history.
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FF8C00?style=flat-square&logo=huggingface&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/caffineblud/Advanced-Emotion-Analyzer)
+
+</td>
+<td width="50%">
+
+### 🔬 Scientific Unit Converter
+Full-stack web converter with 8 categories, Flask REST API, favorites system, persistent history, and responsive layout.
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/caffineblud/Scientific-Unit-Converter)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -74,7 +143,8 @@ My projects span a wide range: an **Emotion Analyzer** that reads faces, a **Vir
 
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FF8C00?style=flat-square&logo=huggingface&logoColor=white)
 
 **Tools & Design**
 
